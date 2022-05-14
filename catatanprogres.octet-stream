@@ -1,0 +1,17 @@
+- event dan reservation perbulan, perminggu <<< perbulan wes << perminggu durung
+- hover informasi reservation dan event <<< wes
+- print laporan <<< wes
+- menampilkan link undangan <<< wes
+- handler when confirm agenda. <<<< wes
+- di print ditambahkan judul-judul dan penanggung jawab << wes
+- di tampilan jadwal acara dibuatkan halaman tabel biasa, ditampilkan juga penanggung jawab << wes
+- frontdesk juga bisa insert&lihat daftar acara, frontdesk tidak jadi tampilkan jadwal akifitas pimpinan << wes
+- di detail agenda pimpinan ditambahkan tampilan lokasi agendanya << wes
+- di detail agenda pimpinan, label pimpinan diletakkan di atas "agenda pimpinan siapa" <<< wes
+- buat acara baru ditambahkan rencana jumlah peserta (untuk pendataan konsumsi&sarpras) << wes
+- di agenda, kedepannya rencana bisa ngetag location, mungkin pingin ditampilkan ke maps << wes
+- untuk export jadwal acara bisa didownload sebagai file excel << wes
+- di jadwal acara setelah submit bisa masukkan foto acara/foto scan absen sebagai arsip (kemungkinan perlu tabel baru, untuk simpan data multivalue), kalau bisa segala jenis file << wes
+- buat acara kemungkinan bisa address multi room << wes
+
+- edit event error
